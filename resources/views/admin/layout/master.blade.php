@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 
-@include("admin.partials.head")
+@include("admin.layout.partials.head")
 
 <body class="small-navigation">
 
-@include("admin.partials.navigation")
+@include("admin.layout.partials.navigation")
 
-@include("admin.partials.header")
+@include("admin.layout.partials.header")
 
 @yield("content")
 
-@include("admin.partials.scripts")
+@include("admin.layout.partials.scripts")
 
 </body>
 </html>

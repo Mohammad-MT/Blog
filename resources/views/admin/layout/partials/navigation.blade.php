@@ -2,7 +2,7 @@
     <div class="navigation-icon-menu">
         <ul>
             <li data-toggle="tooltip" title="کاربران">
-                <a href="#users" title=" کاربران">
+                <a href="#" title=" کاربران">
                     <i class="icon ti-user"></i>
                 </a>
             </li>
